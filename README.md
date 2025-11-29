@@ -13,10 +13,6 @@ Key features:
 
 Built with WordPress and WooCommerce (based on database tables like `wp_woocommerce_*`).
 
-## Project Details
-- **Submitted By**: Praful Man Thaku (770326)
-- **Technologies**: WordPress, PHP, MySQL, WooCommerce (inferred from DB structure), HTML/CSS/JS.
-
 ## Setup Instructions
 
 ### Prerequisites
@@ -60,13 +56,18 @@ define('DB_HOST', 'localhost');
 - **Frontend**: Browse mobiles, add to cart, checkout.
 - **Admin**: Login at `/wp-admin/` to manage products, orders, users.
 - **Pages**: Includes Home, Shop, Checkout, Cart, About Us, Contact Us.
+- **Technologies**: WordPress, PHP, MySQL, WooCommerce (inferred from DB structure), HTML/CSS/JS.
 
 ### Development
 - Custom theme/plugin in `wp-content/'.
 - Debug: Set `WP_DEBUG` to true in `wp-config.php`.
 - Updates: Keep WP core, themes, and plugins updated.
-  
 
+🧑‍💻 Author
+Praful Man Thaku
+Frontend Developer
+GitHub: praful10214
+Email: praful.thaku@gmail.com
 
 ### License
 This project is licensed under the GNU General Public License v2 (or later) as per WordPress. See `license.txt` for details.
