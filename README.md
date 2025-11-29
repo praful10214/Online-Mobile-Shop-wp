@@ -64,10 +64,10 @@ define('DB_HOST', 'localhost');
 - Updates: Keep WP core, themes, and plugins updated.
 
 🧑‍💻 Author
-Praful Man Thaku
-Frontend Developer
-GitHub: praful10214
-Email: praful.thaku@gmail.com
+- Praful Man Thaku
+- Frontend Developer
+- GitHub: praful10214
+- Email: praful.thaku@gmail.com
 
 ### License
 This project is licensed under the GNU General Public License v2 (or later) as per WordPress. See `license.txt` for details.
