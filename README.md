@@ -49,8 +49,8 @@ define('DB_HOST', 'localhost');
 
 5. Access the site:
 - Place files in your server root (e.g., htdocs for XAMPP).
-- Visit `http://localhost/` (or your domain).
-- Admin login: Use credentials from project (e.g., username: praful, password: khwop@123 – change immediately!).
+- Visit `http://localhost/`...
+- Admin login: Use credentials from project 
 
 6. Install dependencies:
 - If using Composer: `composer install` (add composer.json if needed for plugins).
@@ -62,9 +62,10 @@ define('DB_HOST', 'localhost');
 - **Pages**: Includes Home, Shop, Checkout, Cart, About Us, Contact Us.
 
 ### Development
-- Custom theme/plugin in `wp-content/` (add if not included).
+- Custom theme/plugin in `wp-content/'.
 - Debug: Set `WP_DEBUG` to true in `wp-config.php`.
 - Updates: Keep WP core, themes, and plugins updated.
+  
 
 
 ### License
