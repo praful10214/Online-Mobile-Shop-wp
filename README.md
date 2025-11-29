@@ -1,7 +1,7 @@
 # Online Mobile Purchasing System
 
 ## Overview
-This is a WordPress-based online mobile shop system developed as a project for the Bachelor of Engineering in Computer Engineering at Khwopa Engineering College, Purbanchal University. It allows users to browse, select, and purchase mobile products online, with features like user registration, admin management, shopping cart, checkout, and secure transactions.
+This is a WordPress based online mobile shop system developed as a minor semester project. It allows users to browse, select, and purchase mobile products online, with features like user registration, admin management, shopping cart, checkout, and secure transactions.
 
 Key features:
 - User browsing and ordering of mobile products.
