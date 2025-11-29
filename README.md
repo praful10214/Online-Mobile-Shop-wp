@@ -23,8 +23,8 @@ Built with WordPress and WooCommerce (based on database tables like `wp_woocomme
 
 ### Installation
 1. Clone the repo:
-  git clone https://github.com/praful10214/Online-Mobile-Shop-wp.git
-  cd online-mobile-shop-wp
+  - git clone https://github.com/praful10214/Online-Mobile-Shop-wp.git
+  - cd online-mobile-shop-wp
 
 2. Set up database:
 - Create a MySQL database named `mysite`.
@@ -35,9 +35,9 @@ Built with WordPress and WooCommerce (based on database tables like `wp_woocomme
 - Copy `wp-config-sample.php` to `wp-config.php`.
 - Edit `wp-config.php` with your DB details:
   define('DB_NAME', 'mysite');
-define('DB_USER', 'root');  // Or your DB user
-define('DB_PASSWORD', '');  // Set a secure password
-define('DB_HOST', 'localhost');
+  define('DB_USER', 'root');  // Or your DB user
+  define('DB_PASSWORD', '');  // Set a secure password
+  define('DB_HOST', 'localhost');
  - Update salts/keys from https://api.wordpress.org/secret-key/1.1/salt/.
 
 4. Set up file permissions:
